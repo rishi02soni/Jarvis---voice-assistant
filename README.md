@@ -156,8 +156,7 @@ This project is licensed under the MIT License.
 **Rishi Soni**
 Aspiring Software Engineer | AI & Cloud Enthusiast
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/rishi02soni
 
 ---
 

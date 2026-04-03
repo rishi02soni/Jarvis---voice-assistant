@@ -1,0 +1,2 @@
+ASSISTANT_NAME = "Jarvis"
+VOICE_RATE = 170
